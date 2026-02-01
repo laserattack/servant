@@ -1,3 +1,5 @@
+# -*- mode: makefile -*-
+
 .PHONY: test lint build clean all build-linux-amd64 build-linux-arm64 build-windows-amd64 build-windows-arm64 build-macos-amd64 build-macos-arm64 build-freebsd-amd64 build-freebsd-arm64 build-openbsd-amd64 build-netbsd-amd64 build-dragonfly-amd64
 
 BINARY_NAME = cronshroom
